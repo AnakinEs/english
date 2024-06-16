@@ -598,6 +598,12 @@ details {
 
 .blue {
   background-color: rgb(153, 192, 255);
+  border-radius: 0.25rem;  
+  padding: .125rem 0;
+}
+
+.hint:hover {
+  background-color: rgb(114, 165, 247);
 }
 
 code .meaning, code .hint {
