@@ -597,13 +597,13 @@ details {
 } 
 
 .blue {
-  background-color: rgb(180, 209, 255);
+  background-color: rgb(216, 231, 255);
   border-radius: 0.25rem;  
   padding: .125rem 0;
 }
 
-.hint:hover {
-  background-color: rgb(123, 174, 255);
+.blue:hover {
+  background-color: rgb(174, 205, 255);
 }
 
 code .meaning, code .hint {
